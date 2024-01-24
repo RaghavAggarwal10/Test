@@ -9,3 +9,8 @@ print(data1)
 #fill_vaalue=0 will be used to put the values to zero if there are less values present in it 
 s=data.add(data1, fill_value=0)#elements with same index are added e
 print(s)
+#extra
+a=10
+b=10
+c=a+b
+print(c)
